@@ -1,0 +1,13 @@
+{
+  "accentColor": "#8756fb",
+  "cssTheme": "",
+  "interfaceFontFamily": "Satoshi",
+  "textFontFamily": "Satoshi",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "theme": "moonstone",
+  "showRibbon": true,
+  "nativeMenus": true,
+  "showViewHeader": true
+}
