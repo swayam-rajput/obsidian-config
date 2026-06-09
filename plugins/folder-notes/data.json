@@ -16,7 +16,7 @@
   "stopWhitespaceCollapsing": true,
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
-  "openInNewTab": false,
+  "openInNewTab": true,
   "focusExistingTab": false,
   "oldFolderNoteName": "{{folder_name}}",
   "folderNoteName": "{{folder_name}}",
