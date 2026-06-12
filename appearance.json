@@ -1,0 +1,13 @@
+{
+  "cssTheme": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "accentColor": "",
+  "monospaceFontFamily": "Source Code Pro",
+  "autoFullScreen": true,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "theme"
+  ]
+}

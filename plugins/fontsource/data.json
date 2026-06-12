@@ -1,0 +1,67 @@
+{
+  "fonts": [
+    {
+      "id": "geist-mono",
+      "family": "Geist Mono",
+      "subsets": [
+        "cyrillic",
+        "cyrillic-ext",
+        "latin",
+        "latin-ext",
+        "symbols2",
+        "vietnamese"
+      ],
+      "styles": [
+        "italic",
+        "normal"
+      ],
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "variable": {
+        "ital": {
+          "default": "0",
+          "min": "0",
+          "max": "1",
+          "step": "1"
+        },
+        "wght": {
+          "default": "400",
+          "min": "100",
+          "max": "900",
+          "step": "1"
+        }
+      },
+      "isActive": true
+    }
+  ],
+  "interfaceFonts": [
+    {
+      "id": "geist-mono",
+      "family": "Geist Mono",
+      "precedence": 0
+    }
+  ],
+  "textFonts": [
+    {
+      "id": "geist-mono",
+      "family": "Geist Mono",
+      "precedence": 0
+    }
+  ],
+  "monospaceFonts": [
+    {
+      "id": "geist-mono",
+      "family": "Geist Mono",
+      "precedence": 0
+    }
+  ]
+}
