@@ -80,5 +80,13 @@
       ],
       "key": "Z"
     }
+  ],
+  "bookshelf:open-library": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
   ]
 }

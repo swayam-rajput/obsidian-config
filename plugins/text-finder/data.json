@@ -1,0 +1,20 @@
+{
+  "clearAfterHidden": false,
+  "enableInputHotkeys": true,
+  "sourceModeWhenSearch": true,
+  "moveCursorToMatch": true,
+  "useSelectionAsSearch": true,
+  "useObsidianSearchInRead": true,
+  "useEscapeCharInReplace": true,
+  "enableHistory": true,
+  "historyMaxCount": 10,
+  "historySortOrder": "lastUsedAt",
+  "searchHistory": [
+    {
+      "text": "^\\d\\d?([,])\\d\\d?-\\d?\\d?",
+      "lastUsedAt": 1781104469846,
+      "createdAt": 1781104468283,
+      "count": 1
+    }
+  ]
+}

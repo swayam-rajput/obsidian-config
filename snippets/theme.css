@@ -1,0 +1,36 @@
+body{
+	--checklist-done-color: rgb(60, 152, 60);
+	--checklist-done-decoration: none;
+	--checkbox-color: transparent;
+	--checkbox-color-hover: transparent;
+	--checkbox-marker-color: transparent;
+
+}
+
+/* Checkbox styling */
+input[type="checkbox"] {
+	border: 0;
+}
+
+input[type="checkbox"]:checked::after,
+input[type="checkbox"]:not(:checked)::after {
+	-webkit-mask-image: none;
+	font-size: var(--font-text-size);
+	width: 40px;
+	font-family: var(--font-text);
+	white-space: nowrap;
+	top: -4px;
+	left: -8px;
+	position: absolute;
+	display: block;
+}
+
+input[type="checkbox"]:not(:checked)::after {
+	content: "[  ]";
+	color: var(--text-normal);
+}
+
+input[type="checkbox"]:checked::after {
+	content: "[x]";
+	color: var(--checklist-done-color);
+}

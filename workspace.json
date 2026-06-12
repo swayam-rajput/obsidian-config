@@ -23,67 +23,52 @@
             }
           },
           {
-            "id": "0672d37c86d0f2b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/academics/notes/CC/Unit 5.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit 5"
-            }
-          },
-          {
-            "id": "317fffe081819410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/academics/notes/CC/Unit 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit 4"
-            }
-          },
-          {
             "id": "b8fbe3427c8ee86c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/academics/notes/CC/Unit 6.md",
+                "file": "physical-health/workouts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 6"
+              "title": "workouts"
             }
           },
           {
-            "id": "0b47d8756fbd2276",
+            "id": "65af85bd8a5d0fad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/academics/notes/CC/Unit 3.md",
+                "file": "sakai.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 3"
+              "title": "sakai"
+            }
+          },
+          {
+            "id": "8fc717fe97c15f6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/books wishlist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "books wishlist"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "2f09d97268ec2c1a",
@@ -219,16 +203,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "registered accounts.md",
+                "file": "Books/books wishlist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of registered accounts"
+              "title": "Outline of books wishlist"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -243,56 +228,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "bookshelf:Open Bookshelf library": false,
+      "bookshelf:Open Bookshelf statistics": false,
+      "book-tracker:Book Library": false
     }
   },
-  "active": "0672d37c86d0f2b0",
+  "active": "8fc717fe97c15f6e",
   "lastOpenFiles": [
-    "study/academics/notes/CC/Unit 6.md",
-    "study/academics/notes/CC/Unit 5.md",
-    "study/academics/notes/CC/kub.png",
-    "study/academics/notes/CC/Unit 3.md",
-    "study/academics/notes/CC/container-arc.png",
-    "study/academics/notes/CC/edge-computing.png",
-    "study/academics/notes/CC/CC.md",
-    "to-do.md",
-    "study/academics/notes/CC/mcc.png",
-    "study/academics/notes/CC/Unit 4.md",
-    "study/academics/notes/CC/EC2.png",
-    "study/academics/notes/CC/amazon dynamo.png",
-    "Pasted image 20260606172210.png",
     "timetable.md",
+    "Books/books wishlist.md",
+    "to-do.md",
+    "Untitled.md",
+    "bookmarks.md",
+    "Computer log.md",
+    "journal.md",
+    "speaking.md",
     "things to learn.md",
-    "study/academics/notes/ANN/ANN.md",
-    "study/academics/notes/ANN/Unit 5.md",
-    "Pasted image 20260608005245.png",
-    "Pasted image 20260608003237.png",
-    "study/academics/notes/ANN/Unit 4.md",
-    "study/academics/notes/ANN/Unit 6.md",
-    "study/academics/notes/ANN/Unit 3.md",
-    "Pasted image 20260606231145.png",
-    "study/academics/notes/CS/Unit 6.md",
-    "study/academics/notes/CS/CS.md",
-    "study/academics/notes/CS/Unit 5.md",
-    "study/academics/notes/CS/Unit 4.md",
-    "study/academics/notes/CS/Unit 3.md",
-    "programming/DSA.md",
-    "programming/open-source.md",
+    "Untitled 1.md",
+    "canvas.canvas",
+    "Books/Programming/AI Engineering.pdf",
+    "Books/Project Hail Mary.md",
+    "Books/Project Hail Mary - Andy Weir.pdf",
+    "sakai.md",
+    "Books/arthur-conan-doyle_adventures-of-sherlock-holmes.pdf",
+    "AI Engineering.pdf",
+    "Books/Programming/Wes-McKinney-Python-for-Data-Analysis.pdf",
+    "Books/Programming/UnderstandingDeepLearning_05_29_25_C.pdf",
+    "Books/Programming/The 100 Page Machine Learning Book.pdf",
+    "Books/Programming/ml_ebook.pdf",
+    "Books/Programming/Leetcode patterns.pdf",
+    "Books/Programming/Hands On Machine Learning with Scikit Learn and TensorFlow.pdf",
+    "Books/baddies/Screenshot_20260426_145506_Hinge.jpg",
+    "Books/baddies/Screenshot_20260426_145309_Hinge.jpg",
+    "Books/baddies/Screenshot_20260426_144919_Hinge.jpg",
+    "Books/baddies/Screenshot_20260423_075045_Hinge.jpg",
+    "Books/baddies/Screenshot_20260421_145725_Hinge.jpg",
+    "Books/baddies/Screenshot_20260412_071037_Hinge.jpg",
+    "Books/baddies/Screenshot_20260412_070933_Hinge.jpg",
+    "Books/baddies/Screenshot_20260411_084958_Hinge.jpg",
+    "Books/baddies/Screenshot_20260410_200547_Hinge.jpg",
+    "Books/baddies/Screenshot_20260407_140424_Hinge.jpg",
+    "physical-health/workouts.md",
+    "physical-health/calisthenics.md",
+    "github commit message cheatsheet.md",
+    "english/accents.md",
+    "english/phrases or idioms.md",
     "programming/project ideas.md",
     "programming/resources.md",
-    "study/academics/notes/CS",
-    "study/academics/notes/notes.md",
-    "deutsche/deutsche.md",
-    "registered accounts.md",
-    "study/academics/notes/ANN",
-    "study/academics/notes/notes.base",
-    "study/academics/notes/CC",
-    "Untitled.canvas",
-    "study/academics/notes",
-    "study/academics/CCnot",
-    "study/academics",
-    "study",
-    "Untitled.base",
-    "Untitled 1.base"
+    "programming/open-source.md",
+    "programming/DSA.md",
+    "study/academics/notes/CC/Unit 3.md",
+    "study/academics/notes/CC/Unit 4.md",
+    "study/academics/notes/CC/Unit 5.md",
+    "study/academics/notes/CC/CC.md",
+    "study/academics/notes/CC/Unit 6.md"
   ]
 }
