@@ -1,0 +1,16 @@
+{
+  "libraries": "\n",
+  "singleLibraries": "Books\n",
+  "extensions": "pdf,epub,cbz,cbr,mobi",
+  "hideCoverFiles": true,
+  "setAsHomepage": true,
+  "hideBookMdFiles": true,
+  "ignoreFolders": "_ignore",
+  "enableForceRename": false,
+  "geminiApiKey": "",
+  "geminiModel": "gemini-1.5-flash",
+  "enableWebServer": false,
+  "webServerPort": 7070,
+  "enableWebAuth": false,
+  "webAuthUsers": "admin:admin"
+}

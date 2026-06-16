@@ -41,15 +41,12 @@
             "id": "65af85bd8a5d0fad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sakai.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Books/Programming/Competitive Programming Handbook.pdf"
               },
-              "icon": "lucide-file",
-              "title": "sakai"
+              "icon": "lucide-file-text",
+              "title": "Competitive Programming Handbook"
             }
           },
           {
@@ -58,17 +55,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/books wishlist.md",
-                "mode": "source",
+                "file": "programming/project ideas.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "books wishlist"
+              "title": "project ideas"
+            }
+          },
+          {
+            "id": "74e3d0b8af72ba32",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Programming/ai-books/ml_ebook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ml_ebook"
+            }
+          },
+          {
+            "id": "00620510661b1654",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Programming/Grokking-Data-Structures.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Grokking-Data-Structures"
+            }
+          },
+          {
+            "id": "bf82ff0a7c85e2e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Project Hail Mary - Andy Weir.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Project Hail Mary - Andy Weir"
+            }
+          },
+          {
+            "id": "0b1b047a396f30c9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Programming/ai-books/LLM Engineers Handbook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LLM Engineers Handbook"
+            }
+          },
+          {
+            "id": "75f79cdd7dd36d1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bookshelf-view",
+              "state": {},
+              "pinned": true,
+              "icon": "library",
+              "title": "Shiori Bookshelf"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -125,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "2f09d97268ec2c1a",
@@ -203,22 +261,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/books wishlist.md",
+                "file": "english/words or phrases or idioms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of books wishlist"
+              "title": "Outline of words or phrases or idioms"
+            }
+          },
+          {
+            "id": "3d1caa3f8c6897b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookshelf-scan-progress-view",
+              "state": {},
+              "icon": "bell",
+              "title": "Notification"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 252,
-    "collapsed": true
+    "width": 252
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,59 +296,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "bookshelf:Open Bookshelf library": false,
-      "bookshelf:Open Bookshelf statistics": false,
-      "book-tracker:Book Library": false
+      "shiori-bookshelf:Open Shiori Bookshelf": false
     }
   },
-  "active": "8fc717fe97c15f6e",
+  "active": "75f79cdd7dd36d1a",
   "lastOpenFiles": [
-    "timetable.md",
-    "Books/books wishlist.md",
-    "to-do.md",
-    "Untitled.md",
-    "bookmarks.md",
-    "Computer log.md",
-    "journal.md",
-    "speaking.md",
-    "things to learn.md",
-    "Untitled 1.md",
-    "canvas.canvas",
-    "Books/Programming/AI Engineering.pdf",
-    "Books/Project Hail Mary.md",
+    "Books/Programming/Wes-McKinney-Python-for-Data-Analysis.md",
+    "Books/Programming/Wes-McKinney-Python-for-Data-Analysis_cover.jpg",
+    "Books/Programming/ai-books/UnderstandingDeepLearning_05_29_25_C.md",
+    "Books/Programming/ai-books/UnderstandingDeepLearning_05_29_25_C_cover.jpg",
+    "Books/Trainspotting - Irvine Welsh.md",
+    "Books/Trainspotting - Irvine Welsh_cover.jpg",
+    "Books/The-Martian [www.languagecentre.ir].md",
+    "Books/The-Martian [www.languagecentre.ir]_cover.jpg",
+    "Books/The_Metamorphosis-Franz_Kafka.md",
+    "Books/The_Metamorphosis-Franz_Kafka_cover.jpg",
+    "Books/The Book of Five Rings - Miyamoto, Musashi.md",
+    "Books/The Book of Five Rings - Miyamoto, Musashi_cover.jpg",
+    "Books/Programming/ai-books/The 100 Page Machine Learning Book.md",
+    "Books/Programming/ai-books/The 100 Page Machine Learning Book_cover.jpg",
+    "Books/Succession Season Four The Complete Scripts (Jesse Armstrong).md",
+    "Books/Succession Season Four The Complete Scripts (Jesse Armstrong)_cover.jpg",
+    "Books/Succession – Season Two - Jesse Armstrong.md",
+    "Books/Succession – Season Two - Jesse Armstrong_cover.jpg",
+    "Books/Succession – Season One - Jesse Armstrong.md",
+    "Books/Succession – Season One - Jesse Armstrong_cover.jpg",
+    "Books/Project Hail Mary - Andy Weir.md",
+    "Books/pdfcoffee.com_a-dictionary-of-color-combinations-sanzo-wada-3-pdf-free.md",
+    "Books/Programming/ai-books/ml_ebook.md",
+    "Books/memoirs-of-sherlock-holmes.md",
+    "Books/Machiavelli,+The+Prince.md",
+    "Books/Programming/ai-books/LLM Engineers Handbook.md",
+    "Books/Programming/Leetcode patterns.md",
+    "Books/Programming/ai-books/Hands On Machine Learning with Scikit Learn and TensorFlow.md",
+    "Books/Programming/Grokking-Data-Structures.md",
+    "Books/Programming/Grokking Algorithms.md",
+    "Books/Fight Club-Chuck Palahniuk.md",
+    "Books/Dune-Frank Herbert.md",
+    "Books/Programming/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.md",
+    "Books/Cormac Mccarthy - The Blood Meridian.md",
+    "Books/Programming/Competitive Programming Handbook.md",
+    "Books/arthur-conan-doyle_adventures-of-sherlock-holmes.md",
+    "pdf_debug_log.txt",
+    "Books/Programming/ai-books/ml_ebook.pdf",
+    "Books/Programming/Grokking-Data-Structures.pdf",
     "Books/Project Hail Mary - Andy Weir.pdf",
-    "sakai.md",
+    "Books/Programming/ai-books/LLM Engineers Handbook.pdf",
     "Books/arthur-conan-doyle_adventures-of-sherlock-holmes.pdf",
-    "AI Engineering.pdf",
-    "Books/Programming/Wes-McKinney-Python-for-Data-Analysis.pdf",
-    "Books/Programming/UnderstandingDeepLearning_05_29_25_C.pdf",
-    "Books/Programming/The 100 Page Machine Learning Book.pdf",
-    "Books/Programming/ml_ebook.pdf",
-    "Books/Programming/Leetcode patterns.pdf",
-    "Books/Programming/Hands On Machine Learning with Scikit Learn and TensorFlow.pdf",
-    "Books/baddies/Screenshot_20260426_145506_Hinge.jpg",
-    "Books/baddies/Screenshot_20260426_145309_Hinge.jpg",
-    "Books/baddies/Screenshot_20260426_144919_Hinge.jpg",
-    "Books/baddies/Screenshot_20260423_075045_Hinge.jpg",
-    "Books/baddies/Screenshot_20260421_145725_Hinge.jpg",
-    "Books/baddies/Screenshot_20260412_071037_Hinge.jpg",
-    "Books/baddies/Screenshot_20260412_070933_Hinge.jpg",
-    "Books/baddies/Screenshot_20260411_084958_Hinge.jpg",
-    "Books/baddies/Screenshot_20260410_200547_Hinge.jpg",
-    "Books/baddies/Screenshot_20260407_140424_Hinge.jpg",
-    "physical-health/workouts.md",
-    "physical-health/calisthenics.md",
-    "github commit message cheatsheet.md",
-    "english/accents.md",
-    "english/phrases or idioms.md",
-    "programming/project ideas.md",
-    "programming/resources.md",
-    "programming/open-source.md",
-    "programming/DSA.md",
-    "study/academics/notes/CC/Unit 3.md",
-    "study/academics/notes/CC/Unit 4.md",
-    "study/academics/notes/CC/Unit 5.md",
-    "study/academics/notes/CC/CC.md",
-    "study/academics/notes/CC/Unit 6.md"
+    "Books/memoirs-of-sherlock-holmes.pdf",
+    "Books/Programming/ai-books/UnderstandingDeepLearning_05_29_25_C.pdf",
+    "Books/Programming/ai-books/The 100 Page Machine Learning Book.pdf",
+    "Books/Programming/ai-books/AI Engineering.pdf",
+    "canvas.canvas"
   ]
 }

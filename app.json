@@ -12,7 +12,7 @@
   "defaultViewMode": "source",
   "focusNewTab": true,
   "rightToLeft": false,
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": false,
   "readableLineLength": true,
   "swipeToOpenDrawers": false
