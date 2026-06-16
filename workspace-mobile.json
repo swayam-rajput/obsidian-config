@@ -26,19 +26,52 @@
             "id": "6532585e949bd4b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CC/Unit 5.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "Books/Programming/ai-books/Hands On Machine Learning with Scikit Learn and TensorFlow.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Unit 5"
+              "icon": "lucide-file-text",
+              "title": "Hands On Machine Learning with Scikit Learn and TensorFlow"
+            }
+          },
+          {
+            "id": "daae3722cb7602ab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Programming/Leetcode patterns.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Leetcode patterns"
+            }
+          },
+          {
+            "id": "d9913a8405090f3a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bookshelf-view",
+              "state": {},
+              "pinned": true,
+              "icon": "library",
+              "title": "Shiori Bookshelf"
+            }
+          },
+          {
+            "id": "fda048c8dae623fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Programming/Grokking Algorithms.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Grokking Algorithms"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CC/Unit 5.md",
+            "file": "Books/Programming/ai-books/AI Engineering.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,9 +203,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "37f48be7d5fc61e6",
+        "type": "leaf",
+        "state": {
+          "type": "bookshelf-scan-progress-view",
+          "state": {},
+          "icon": "bell",
+          "title": "Notification"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,37 +225,54 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "shiori-bookshelf:Open Shiori Bookshelf": false
     }
   },
-  "active": "6532585e949bd4b8",
+  "active": "8c0e8073cb8492a6",
   "lastOpenFiles": [
-    "CC/Unit 6.md",
-    "CC/kub.png",
-    "CC/Unit 4.md",
-    "CC/container-arc.png",
-    "CC/mcc.png",
-    "Pasted image 20260608003237.png",
-    "Pasted image 20260608005245.png",
-    "Pasted image 20260606172210.png",
-    "Pasted image 20260606231145.png",
-    "CC/Unit 5.md",
-    "CC/Untitled.md",
-    "CC/theme.txt",
-    "CC/Unit 3.md",
-    "programming/project ideas.md",
-    "programming/DSA.md",
-    "CS Unit 5.md",
-    "timetable.md",
-    "ANN/Unit 4.md",
-    "ANN/Unit 3.md",
-    "ANN/Unit 5.md",
-    "ANN/Unit 6.md",
-    "things to learn.md",
-    "to-do.md",
-    "ANN/ANN.md",
-    "CS unit 4.md",
-    "mindset.md",
-    "programming/open-source.md"
+    "Books/Programming/ai-books/Generative-Deep-Learning.pdf",
+    "Books/Programming/Wes-McKinney-Python-for-Data-Analysis.md",
+    "Books/Programming/Wes-McKinney-Python-for-Data-Analysis_cover.jpg",
+    "Books/Programming/ai-books/UnderstandingDeepLearning_05_29_25_C.md",
+    "Books/Programming/ai-books/UnderstandingDeepLearning_05_29_25_C_cover.jpg",
+    "Books/Trainspotting - Irvine Welsh.md",
+    "Books/Trainspotting - Irvine Welsh_cover.jpg",
+    "Books/The-Martian [www.languagecentre.ir].md",
+    "Books/The-Martian [www.languagecentre.ir]_cover.jpg",
+    "Books/The_Metamorphosis-Franz_Kafka.md",
+    "Books/The_Metamorphosis-Franz_Kafka_cover.jpg",
+    "Books/The Book of Five Rings - Miyamoto, Musashi.md",
+    "Books/The Book of Five Rings - Miyamoto, Musashi_cover.jpg",
+    "Books/Programming/ai-books/The 100 Page Machine Learning Book.md",
+    "Books/Programming/ai-books/The 100 Page Machine Learning Book_cover.jpg",
+    "Books/Succession Season Four The Complete Scripts (Jesse Armstrong).md",
+    "Books/Succession Season Four The Complete Scripts (Jesse Armstrong)_cover.jpg",
+    "Books/Succession – Season Two - Jesse Armstrong.md",
+    "Books/Succession – Season Two - Jesse Armstrong_cover.jpg",
+    "Books/Succession – Season One - Jesse Armstrong.md",
+    "Books/Succession – Season One - Jesse Armstrong_cover.jpg",
+    "Books/Project Hail Mary - Andy Weir.md",
+    "Books/pdfcoffee.com_a-dictionary-of-color-combinations-sanzo-wada-3-pdf-free.md",
+    "Books/Programming/ai-books/ml_ebook.md",
+    "Books/memoirs-of-sherlock-holmes.md",
+    "Books/Machiavelli,+The+Prince.md",
+    "Books/Programming/ai-books/LLM Engineers Handbook.md",
+    "Books/Programming/Leetcode patterns.md",
+    "Books/Programming/ai-books/Hands On Machine Learning with Scikit Learn and TensorFlow.md",
+    "Books/Programming/Grokking-Data-Structures.md",
+    "Books/Programming/Grokking Algorithms.md",
+    "Books/Fight Club-Chuck Palahniuk.md",
+    "Books/Dune-Frank Herbert.md",
+    "Books/Programming/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.md",
+    "Books/Cormac Mccarthy - The Blood Meridian.md",
+    "Books/Programming/Competitive Programming Handbook.md",
+    "pdf_debug_log.txt",
+    "Books/Programming/Leetcode patterns.pdf",
+    "Books/Programming/ai-books/Hands On Machine Learning with Scikit Learn and TensorFlow.pdf",
+    "Books/Programming/ai-books/AI Engineering.pdf",
+    "Books/Programming/ai-books/LLM Engineers Handbook.pdf",
+    "Books/Programming/ai-books/ml_ebook.pdf",
+    "CC/theme.txt"
   ]
 }
